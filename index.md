@@ -4,20 +4,20 @@ This policy explains how your personal information is used and shared, and we ta
 
 ### 1. Which of your Information we collect
 
-ϖ	User provided information
-♣	Contact information (such as name and email address)
-♣	User name and password
-♣	Profile information 
-♣	Payment information (such as your subscription for unlimited reading weekly or monthly)
-♣	Your messages to the Service (such as comments or reviews)
-♣	Other data you choose to give us (such as data to identify a lost account)
-ϖ	Automatically collected information.
-♣	Data about your reading progress: current story, current chapter
-♣	Your IP address and mobile device identifiers (such as device model, device ID, OS version and operator’s name)
-♣	Time and date of the connection to the application and/or service, IP and MAC address, region, platform, cookie information, session information
-♣	General location data
-♣	Precise geo-location data (GPS, with your consent)
-♣	Data about your use of the Service
+User provided information
+  Contact information (such as name and email address)
+  User name and password
+  Profile information 
+  Payment information (such as your subscription for unlimited reading weekly or monthly)
+  Your messages to the Service (such as comments or reviews)
+  Other data you choose to give us (such as data to identify a lost account)
+Automatically collected information.
+  Data about your reading progress: current story, current chapter
+  Your IP address and mobile device identifiers (such as device model, device ID, OS version and operator’s name)
+  Time and date of the connection to the application and/or service, IP and MAC address, region, platform, cookie information, session information
+  General location data
+  Precise geo-location data (GPS, with your consent)
+  Data about your use of the Service
 
 
 ### 2. Why we need your Information
